@@ -3,6 +3,6 @@
     "description": "Cloudstream Indonesia Repo",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/alnurriza/reposan/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/alnurriza/TestPlugins/refs/heads/master/plugins.json"
     ]
 }
