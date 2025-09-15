@@ -1,26 +1,5 @@
 [
 	{
-		
-        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/Kecebadasssskuy/w.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
-        "fileSize": 21183,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "CodeSannz"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie"
-        ],
-        "version": 10,
-        "internalName": "OppadramaProvider",
-        "description": "OppadramaProvider",
-        "url": "https://github.com/alnurriza/repogabungan/main/OppadramaProvider.cs3",
-        "name": "OppadramaProvider"
-	},
-	{
 		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
         "jarFileSize": 355285,
         "apiVersion": 1,
