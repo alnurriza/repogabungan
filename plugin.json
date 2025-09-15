@@ -1,4 +1,27 @@
 [
+	{
+		
+        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/B.png",
+        "jarFileSize": 58323,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14565,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Anixverse",
+        "jarUrl": "https://gitlab.com/purnomobagas315/Agsfaffhekkeoe/-/raw/Playss/AnixVerse.jar",
+        "description": "Anime and Movies",
+        "url": "https://gitlab.com/purnomobagas315/Agsfaffhekkeoe/-/raw/Playss/AnixVerse.cs3",
+        "name": "Anixverse"
+	},
 	
 	{
 		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
