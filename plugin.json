@@ -22,7 +22,6 @@
         "url": "https://gitlab.com/purnomobagas315/Agsfaffhekkeoe/-/raw/Playss/AnixVerse.cs3",
         "name": "Anixverse"
 	},
-	
 	{
 		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
         "jarFileSize": 355285,
@@ -633,26 +632,6 @@
         "description": "DutaMovie",
         "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Dutamovie.cs3",
         "name": "Dutamovie"
-	},
-	{
-		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Funmovieslix.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
-        "fileSize": 14417,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "Funmovieslix",
-        "description": "Indonesia Source",
-        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Funmovieslix.cs3",
-        "name": "Funmovieslix"
 	},
 	{
 		"iconUrl": "hhttps://tv7.idlix.asia/wp-content/uploads/2020/07/logov4.png",
