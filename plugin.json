@@ -1,26 +1,24 @@
 [
 	{
 		
-        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/f0dce4f8936d68e9d4538de600e4b81545c0babe/B.png",
-        "jarFileSize": 58323,
+        "iconUrl": "https://gitlab.com/purnomobagas315/raytikussgacer/-/raw/Kecebadasssskuy/w.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
-        "fileSize": 14565,
+        "fileSize": 21183,
         "status": 1,
         "language": "id",
         "authors": [
             "CodeSannz"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime"
+            "AsianDrama",
+            "Movie"
         ],
-        "version": 5,
-        "internalName": "Anixverse",
-        "jarUrl": "https://gitlab.com/purnomobagas315/Agsfaffhekkeoe/-/raw/Playss/AnixVerse.jar",
-        "description": "Anime and Movies",
-        "url": "https://gitlab.com/purnomobagas315/Agsfaffhekkeoe/-/raw/Playss/AnixVerse.cs3",
-        "name": "Anixverse"
+        "version": 10,
+        "internalName": "OppadramaProvider",
+        "description": "OppadramaProvider",
+        "url": "https://github.com/alnurriza/repogabungan/blob/main/OppadramaProvider.cs3",
+        "name": "OppadramaProvider"
 	},
 	{
 		"iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Allanime.png",
